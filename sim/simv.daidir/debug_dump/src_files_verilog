@@ -1,0 +1,13 @@
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_drv.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_env.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_gen.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_if.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_model.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_rd_mon.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_sb.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_trans.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/env_lib/counter_wr_mon.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/rtl/counter.v
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/test/counter_pkg.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/test/test.sv
+/home1/BRN46/CGuruS/VLSI_RN/SV_LABS/counter_project_FC/test/top.sv

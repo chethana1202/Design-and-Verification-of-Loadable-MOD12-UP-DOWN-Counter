@@ -1,0 +1,13 @@
+../env_lib/counter_drv.sv
+../env_lib/counter_env.sv
+../env_lib/counter_gen.sv
+../env_lib/counter_if.sv
+../env_lib/counter_model.sv
+../env_lib/counter_rd_mon.sv
+../env_lib/counter_sb.sv
+../env_lib/counter_trans.sv
+../env_lib/counter_wr_mon.sv
+../rtl/counter.v
+../test/counter_pkg.sv
+../test/test.sv
+../test/top.sv
